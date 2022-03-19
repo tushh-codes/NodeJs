@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #e0eafc; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #cfdef3,
+    #e0eafc
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cfdef3,
+    #e0eafc
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "poppins", sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.heading {
+  color: black;
+  text-align: center;
+  font-size: 2rem;
+  font-family: "poppins", sans-serif;
+}
+
+.container {
+  background-color: rgb(90, 111, 172);
+  padding: 2rem;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+input {
+  padding: 1rem;
+  border-radius: 12px;
+  border: none;
+  min-width: 300px;
+  font-family: inherit;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  font-size: 1rem;
+  background-color: rgb(16, 31, 77);
+  color: white;
+}
+
+input:focus {
+  outline: none;
+}
+
+.weather {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
+
+.weather h2 {
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+}
+.weather h5 {
+  margin: -5px 0 -10px 0;
+}
+.weather small {
+  font-size: 1.5rem;
+  font-family: inherit;
+}
+
+</style>
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.min.js"></script> -->
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div class="container">
+      <form id="form">
+        <h1 class="heading">Weather App</h1>
+        <!-- <input
+          type="text"
+          id="search"
+          placeholder="Search By Location"
+          autocomplete="off"
+        /> -->
+      </form>
+      <main id="main">
+        <div class="weather">
+          <h2><img src ='https://openweathermap.org/img/wn/01d@2x.png'></img>{%temp%} K</h2>
+
+           <small>{%desc%}</small>
+           <h5>{%location%},  {%country%}</h>
+
+        </div>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
