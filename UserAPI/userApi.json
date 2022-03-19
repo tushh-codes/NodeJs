@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "description": "South Florida's Best Meetups on Youtube",
+    "url": "https://www.youtube.com/bocajs",
+    "types": ["tutorial"],
+    "topics": ["js", "html"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 2,
+    "description": "BocaJS - South Florida's Largest Developer Meetup",
+    "url": "https://Meetup.com/bocajs",
+    "types": ["meeting"],
+    "topics": ["js", "html"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 3,
+    "description": "Palm Beach Javascript",
+    "url": "https://www.youtube.com/palm-beach-js",
+    "types": ["meeting"],
+    "topics": ["js", "html"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 4,
+    "description": "35 Useful CSS3 Tutorials To Boost Your Skills",
+    "url": "http://www.tripwiremagazine.com/2012/06/css3-tutorials.html",
+    "types": ["tutorial"],
+    "topics": ["html", "css"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 5,
+    "description": "5 more ways to start learning how to code right now for free",
+    "url": "http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free",
+    "types": ["reference", "blog post"],
+    "topics": ["learn to code", "computer science", "general programming"],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 6,
+    "description": "5 Ways To Learn Code From The Comfort Of Your Own Browser",
+    "url": "http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser",
+    "types": ["reference", "blog post"],
+    "topics": ["learn to code"],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 7,
+    "description": "Academy RPA UiPath",
+    "url": "https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&utm_medium=link&utm_campaign=ET19ACD&utm_term=womenwhocode",
+    "types": ["interactive course"],
+    "topics": ["general programming", "computer science", "learn to code"],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 8,
+    "description": "Also, Why I'm learning to code",
+    "url": "http://also.roybahat.com/post/11574823708/why-im-learning-to-code",
+    "types": ["reference", "blog post"],
+    "topics": ["learn to code"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 9,
+    "description": "Alternate Java Programming Style Guide from JavaRanch",
+    "url": "http://www.javaranch.com/style.jsp",
+    "types": ["style guide"],
+    "topics": ["java"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 10,
+    "description": "Apple Human Interface Guidelines",
+    "url": "https://developer.apple.com/design/resources",
+    "types": ["article", "book"],
+    "topics": ["iOS App Development"],
+    "levels": ["intermediate"]
+  },
+  {
+    "id": 11,
+    "description": "Atlassian Git Tutorials",
+    "url": "https://www.atlassian.com/git",
+    "types": ["tutorial"],
+    "topics": ["git"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 12,
+    "description": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com",
+    "types": ["tutorial"],
+    "topics": ["python"],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 13,
+    "description": "AWS Events & Webinars",
+    "url": "https://aws.amazon.com/about-aws/events",
+    "types": ["reference"],
+    "topics": ["aws", "cloud"],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 14,
+    "description": "AWS Loft Talk An Engineer's Tour of the Internet of Things (Sep 2015 video)",
+    "url": "https://www.youtube.com/watch?v=yElH0mGzEkE",
+    "types": ["video"],
+    "topics": ["iot"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 15,
+    "description": "Babel's ECMAScript 6 tutorial",
+    "url": "http://babeljs.io/docs/learn-es2015",
+    "types": ["tutorial"],
+    "topics": ["javascript"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 16,
+    "description": "Bug Bounties 101 - Getting Started",
+    "url": "https://fin1te.net/articles/bug-bounties-101-getting-started",
+    "types": ["guide", "reference"],
+    "topics": ["security", "bug"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 17,
+    "description": "Bugcrowd blog - for bug bounty community",
+    "url": "https://blog.bugcrowd.com",
+    "types": ["blog"],
+    "topics": ["security", "bug"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 18,
+    "description": "Build Cross Browser Extensions in Minutes - Crossrider.com",
+    "url": "https://crossrider.com",
+    "types": ["product"],
+    "topics": ["html", "css"],
+    "levels": ["intermediate", "advanced"]
+  },
+  {
+    "id": 19,
+    "description": "BuildingWebApps.com",
+    "url": "http://www.buildingwebapps.com",
+    "types": ["tutorial", "reference"],
+    "topics": ["html", "css", "ruby"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 20,
+    "description": "BuildItSecure.ly",
+    "url": "https://builditsecure.ly/#resources",
+    "types": ["guide", "reference"],
+    "topics": ["iot"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 21,
+    "description": "BuildItSecure.ly - talk introducing initiative - initiative mentioned at 37:36",
+    "url": "https://www.youtube.com/watch?v=WHdU4LutBGU&feature=youtu.be",
+    "types": ["video"],
+    "topics": ["iot"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 22,
+    "description": "BYTE: A Special issue on Smalltalk",
+    "url": "https://archive.org/details/byte-magazine-1981-08",
+    "types": ["reference"],
+    "topics": ["smalltalk"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 23,
+    "description": "C/C++ Reference",
+    "url": "http://en.cppreference.com/w",
+    "types": ["reference"],
+    "topics": ["c++"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 24,
+    "description": "Code academy",
+    "url": "http://www.codecademy.com/en/tracks/javascript",
+    "types": ["tutorial"],
+    "topics": ["javascript"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 25,
+    "description": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "types": ["lab", "interactive course", "tutorial"],
+    "topics": [
+      "rails",
+      "sql",
+      "angularjs",
+      "python",
+      "php",
+      "java",
+      "html",
+      "css",
+      "javascript",
+      "git",
+      "ruby"
+    ],
+    "levels": ["beginner"]
+  },
+  {
+    "id": 26,
+    "description": "Codecademy.com",
+    "url": "https://www.codecademy.com/#!/exercise/0",
+    "types": ["school", "training"],
+    "topics": ["schools"],
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": 27,
+    "description": "Codecademy is now teaching Python!",
+    "url": "https://www.codecademy.com/learn/python",
+    "types": ["tutorial"],
+    "topics": ["python"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 28,
+    "description": "Codecademy - Ruby",
+    "url": "https://www.codecademy.com/learn/ruby",
+    "types": ["tutorial"],
+    "topics": ["ruby"],
+    "levels": ["beginner", "intermediate"]
+  },
+  {
+    "id": 29,
+    "description": "Codecademy - Ruby Track",
+    "url": "https://www.codecademy.com/tracks/ruby",
+    "types": ["interactive course", "tutorial"],
+    "topics": ["ruby", "learn to code"],
+    "levels": ["intermediate", "beginner"]
+  },
+  {
+    "id": 30,
+    "description": "Codecademy's Learn SQL",
+    "url": "https://www.codecademy.com/learn/learn-sql",
+    "types": ["tutorial"],
+    "topics": ["sql"],
+    "levels": ["beginner", "intermediate"]
+  }
+]
